@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763064276548",
+    "firebase_url": "https://kuruku-ce826.firebaseio.com",
+    "project_id": "kuruku-ce826",
+    "storage_bucket": "kuruku-ce826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763064276548:android:9b325e69fb9f17a1",
+        "android_client_info": {
+          "package_name": "com.duke.kuruku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763064276548-bjgi1ulauqjpn4pkglrv70btpumkpquo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duke.kuruku",
+            "certificate_hash": "f02437b933831053202414b41fcc8e3103ad34a7"
+          }
+        },
+        {
+          "client_id": "763064276548-a787q0rijb0g4t330632ioinvj0541d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-E577dPELp7i1ZaJmFQ4PZ9PKGksglg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763064276548-a787q0rijb0g4t330632ioinvj0541d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
